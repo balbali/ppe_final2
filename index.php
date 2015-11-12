@@ -22,8 +22,11 @@ if(isset($_POST['OK'])) {
 <h3>Reservation</h3><br />
 <fieldset><legend>Compte</legend>
     <p>Admin</p>
-    
-  
+   
+    <p>Mail : admin@admin.fr</p>
+    <p>Mot de passe : admin</p>
+    <p>Utilisateur</p>
+    <p>Mail : test@test.fr</
     <p>Mot de passe : test</p>
 </fieldset>
 <fieldset><legend>Connexion</legend>
