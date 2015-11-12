@@ -23,8 +23,7 @@ if(isset($_POST['OK'])) {
 <fieldset><legend>Compte</legend>
     <p>Admin</p>
     
-    <p>Utilisateur</p>
-    <p>Mail : test@test.fr</p>
+  
     <p>Mot de passe : test</p>
 </fieldset>
 <fieldset><legend>Connexion</legend>
